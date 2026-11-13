@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/vlad/Downloads/untitled/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/untitled.dir/main.cpp.o -c /Users/vlad/Downloads/untitled/main.cpp",
+  "file": "/Users/vlad/Downloads/untitled/main.cpp",
+  "output": "/Users/vlad/Downloads/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
+}
+]
